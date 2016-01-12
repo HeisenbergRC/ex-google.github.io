@@ -1,0 +1,55 @@
+body{
+  font-family: 'Product Sans', Arial, sans-serif;
+}
+.titre{
+  font-size: 80px;
+  font-weight: bold;
+  letter-spacing: -0.1em;
+}
+.container{
+  position: relative;
+  text-align: center;
+  margin-top: 15%;
+}
+.head{
+  text-align: right;
+  font-size: 12px;
+}
+.barre{
+  width: 50px;
+  height: 25px;
+  display: inline-block;
+}
+.gmail{
+
+  width: 50px;
+  height: 25px;
+  display: inline-block;
+}
+.images{
+
+  width: 50px;
+  height: 25px;
+  display: inline-block;
+}
+.multi{
+  width: 50px;
+  height: 25px;
+  display: inline-block;
+}
+.search{
+  height: 40px;
+  width: 460px;
+  border: none;
+}
+.rech{
+  border-style: solid;
+  border-width: 1px;
+  width: 530px;
+  height: 50px;
+  display: inline-flex;
+  margin-bottom: 20px;
+}
+#img{
+  margin-left: auto;
+}
